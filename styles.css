@@ -1,0 +1,61 @@
+h1{
+    color: blue;    
+  
+}
+
+    p1{
+        font-size:  20px;
+        color: brown;
+        font-weight: 300px;
+        text-indent: 0em;
+        
+    }
+       
+       p3{ 
+           align-content: center;
+    }
+
+
+    
+    p2{
+        color: black;
+       font-size: 25px;
+       font-weight: 100;
+       font-family: 'Times New Roman';
+    
+
+    }
+    pv{
+        color: blueviolet;
+    }
+    
+    p5{
+        color: white;
+        background-color: black;
+       
+     }
+     
+     p7{
+
+        color: darkorange;
+        
+
+       } 
+P12{
+    color: red;
+    
+}
+p9{
+    color: darkred;
+    text-align: center;
+}
+
+    p10{
+
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+     
+    p6{
+background-color: black;
+color: black;
+}
